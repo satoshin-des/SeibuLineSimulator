@@ -1,0 +1,23 @@
+# Compiled Executables
+*.exe
+
+# HSP Temporary / Build Files
+*.o
+*.obj
+*.lst
+*.map
+packfile
+
+# Packaged Files
+*.ax
+
+# Editor / IDE temporary files
+*.bak
+*.tmp
+*~
+
+# OS Specific files (Windows/macOS)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
